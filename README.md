@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/KITmetricslab/covid19-forecast-hub-de.svg?branch=master)](https://travis-ci.org/KITmetricslab/covid19-forecast-hub-de)
 
-# German and Polish COVID-19 Forecast Hub
+# German and Polish COVID-19 Forecast Hub test 
 
 *Beschreibung in deutscher Sprache siehe [hier](https://github.com/KITmetricslab/covid19-forecast-hub-de/blob/master/README_DE.md).*
 
