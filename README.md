@@ -8,7 +8,7 @@
 ![Actions Status](https://github.com/KITmetricslab/covid19-forecast-hub-de/workflows/epiforecasts/badge.svg)
 
 
-# German and Polish COVID-19 Forecast Hub
+# German and Polish COVID-19 Forecast Hub test
 
 #### A collaborative forecasting project
 
